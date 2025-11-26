@@ -27,22 +27,4 @@ def calculator():
 
 calculator()
 
-# 🧮 Python Calculator Program
-
-A basic calculator built with Python that performs simple math operations using user input.
-
-## 🚀 Features
-- Add, subtract, multiply, divide
-- Simple, beginner-friendly code
-- Runs in any Python environment or online compiler
-
-## 📂 Project Files
-| File | Description |
-|------|-------------|
-| `calculator.py` | Main program file |
-
-## ▶ How to Run
-Open a terminal and run:
-```bash
-python calculator.py
 
